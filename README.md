@@ -1,5 +1,9 @@
 # Angular-Spectrum-Encoding
 
+### Official pytorch implementation of the paper: "Illumination Angular Spectrum Encoding for Controlling the Functionality of Diffractive Networks"
+
+[Paper](https://arxiv.org/abs/2601.04825)
+
 ## System Requirements 
 
 ### Hardware Requirements 
@@ -48,3 +52,21 @@ The different hyperparameters used for running different experiemnts are detaile
 ### Usage
 
 A usage example can be found in `run_trials.py`. 
+
+### Licence 
+
+Our code is under the MIT License. 
+
+## Citation 
+
+If you use this code for your research, please cite our paper:
+
+```
+@article{kleiner2026illumination,
+  title={Illumination Angular Spectrum Encoding for Controlling the Functionality of Diffractive Networks},
+  author={Kleiner, Matan and Michaeli, Lior and Michaeli, Tomer},
+  journal={arXiv preprint arXiv:2601.04825},
+  year={2026}
+}
+```
+
